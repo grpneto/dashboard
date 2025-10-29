@@ -1,4 +1,4 @@
-# dashboard
+# Dashboard
 Dashboard desafio DIO
 
 🎯 Visão Geral do Projeto
